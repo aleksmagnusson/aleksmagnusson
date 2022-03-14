@@ -1,6 +1,8 @@
 ### <h1 align="center">Hi 👋, I'm Aleks Magnusson</h1>
 ### <h3 align="center">A content creator with film and photography, I am learning how to code to develop my skills in further use. Make something beutifully or useful.</h3>
 
+<Image src="https://www.pexels.com/photo/man-in-black-jacket-and-pants-on-black-escalator-3441198/">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksmagnusson&label=Profile%20views&color=0e75b6&style=flat" alt="aleksmagnusson" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksmagnusson" alt="aleksmagnusson" /></a> </p>
