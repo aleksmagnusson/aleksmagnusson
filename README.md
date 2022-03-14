@@ -1,4 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Aleks Magnusson</h1>
+
+![Alt text](https://c.tenor.com/mZhJSl-Ed14AAAAC/hi-jinx.gif)
+
 ### <h3 align="center">A content creator with film and photography, I am learning how to code to develop my skills in further use. Make beautiful and useful tings.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksmagnusson&label=Profile%20views&color=0e75b6&style=flat" alt="aleksmagnusson" /> </p>
@@ -24,8 +27,6 @@
 - 📄 More about my work! [https://aleksmagnusson.com/](https://aleksmagnusson.com/)
 
 - ⚡ Fun fact **I have a secret talent as a voice actor/Twitch Streamer.**
-
-![Alt text](https://c.tenor.com/Ofm2_4Mtw38AAAAC/jinx.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
