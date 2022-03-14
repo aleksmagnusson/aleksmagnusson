@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksmagnusson&show_icons=true&locale=en" alt="aleksmagnusson" /></p>
 
-![ Alt text ]( https://i.gifer.com/XOsX.gif )
+![Alt text](https://thumbs.gfycat.com/GrimyFirsthandAmericancicada-size_restricted.gif)
