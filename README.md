@@ -1,7 +1,9 @@
 ### <h1 align="center">Hi 👋, I'm Aleks Magnusson</h1>
 
+<p aligin="center">
 ![ Alt text ]( https://c.tenor.com/mZhJSl-Ed14AAAAd/hi-jinx.gif )
-
+</p>
+  
 ### <h3 align="center">A content creator with film and photography, I am learning how to code to develop my skills in further use. Make beautiful and useful tings.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksmagnusson&label=Profile%20views&color=0e75b6&style=flat" alt="aleksmagnusson" /> </p>
