@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Aleks Magnusson</h1>
 ### <h3 align="center">A content creator with film and photography, I am learning how to code to develop my skills in further use. Make something beutifully or useful.</h3>
 
-![This is an image](https://images.pexels.com/photos/4957217/pexels-photo-4957217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+![This is an image](https://images.pexels.com/photos/4957217/pexels-photo-4957217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=360&w=640)
 
 <Image src="https://www.pexels.com/photo/man-in-black-jacket-and-pants-on-black-escalator-3441198/">
 
