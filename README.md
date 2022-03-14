@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksmagnusson&label=Profile%20views&color=0e75b6&style=flat" alt="aleksmagnusson" /> </p>
 
+![This is an image](https://i.gifer.com/XOsX.gif)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksmagnusson" alt="aleksmagnusson" /></a> </p>
 
 - 🔭 I’m currently working on a portfolio page. [Portfolio-2](https://portfolio-2-under-construction.netlify.app/)
 
 - 🌱 I’m currently learning React. **React, Chakra, recoil, React Router DOM etc...**
 
-- 👯 I’m looking to collaborate with others and built something useful and exciting! [DM me to learn more.](x)
+- 👯 I’m looking to collaborate with others and built something useful and exciting!
 
-- 🤝 I’m looking for help with code and how to be a better Frontend Programmer. [[null]](x)
+- 🤝 I’m looking for help with code and how to be a better Frontend Programmer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/aleksmagnusson](https://github.com/aleksmagnusson)
 
