@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Aleks Magnusson</h1>
 
-![Alt text](https://c.tenor.com/mZhJSl-Ed14AAAAC/hi-jinx.gif)
+![ Alt text ]( https://c.tenor.com/mZhJSl-Ed14AAAAd/hi-jinx.gif )
 
 ### <h3 align="center">A content creator with film and photography, I am learning how to code to develop my skills in further use. Make beautiful and useful tings.</h3>
 
