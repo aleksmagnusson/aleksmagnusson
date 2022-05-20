@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksmagnusson" alt="aleksmagnusson" /></a> </p>
 
-- 🔭 I’m currently learning about Node.js and more extensions to it. Like Express and Insomnia.
+- 🔭 NOW: I’m currently learning about Node.js and more extensions to it. Like Express and Insomnia.
 
-- 🌱 I’m currently learning Node. **Node.js, Express, Nodemon, Insomnia and etc...**
+- 🌱 IN GENERAL: I’m currently learning Node. **Node.js, Express, Nodemon, Insomnia and etc...**
 - There is a lot to learn and I sometimes feel it is like a rollercoaster with all the new things we learn everyday.
 
 - 👯 I’m looking to collaborate with others and learn as much as possible. Something useful and exciting to my career.
@@ -21,15 +21,9 @@
 
 - 👨‍💻 All of my public projects are available at [https://github.com/aleksmagnusson](https://github.com/aleksmagnusson)
 
-- 📝 I regularly post photos / images on [https://www.instagram.com/aleks.magnusson/](https://www.instagram.com/aleks.magnusson/)
-
-- 💬 Ask me about **anything from photography/editing to who I am as a person.**
-
 - 📫 How to reach me **aleks.magnusson@outlook.com**
 
 - 📄 More about my work in photography and coding! [https://aleksmagnusson.com/](https://aleksmagnusson.com/)
-
-- ⚡ Fun fact **I have a secret talent, I can do a lot of voice acting.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
