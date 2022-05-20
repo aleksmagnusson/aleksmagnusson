@@ -35,7 +35,6 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/aleks magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleks magnusson" height="30" width="40" /></a>
-
 <a href="https://instagram.com/aleks.magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleks.magnusson" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aleks magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aleks magnusson" height="30" width="40" /></a>
 <a href="https://discord.gg/Aleksa Natalia#8583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aleksa Natalia#8583" height="30" width="40" /></a>
