@@ -10,18 +10,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksmagnusson" alt="aleksmagnusson" /></a> </p>
 
-- 🔭 I’m currently working on a webshop for a school assignment "kunskapskontroll 4" in react.
+- 🔭 I’m currently learning about Node.js and more extensions to it. Like Express and Insomnia.
 
-- 🌱 I’m currently learning React. **React, Chakra, recoil, React Router DOM etc...**
+- 🌱 I’m currently learning Node. **Node.js, Express, Nodemon, Insomnia and etc...**
 - There is a lot to learn and I sometimes feel it is like a rollercoaster with all the new things we learn everyday.
 
-- 👯 I’m looking to collaborate with others and learn as much as possible. Something useful and exciting in my career.
+- 👯 I’m looking to collaborate with others and learn as much as possible. Something useful and exciting to my career.
 
 - 🤝 I’m looking for help with code and how to be a better Frontend Programmer.
 
-- 👨‍💻 All of my projects are available at [https://github.com/aleksmagnusson](https://github.com/aleksmagnusson)
+- 👨‍💻 All of my public projects are available at [https://github.com/aleksmagnusson](https://github.com/aleksmagnusson)
 
-- 📝 I regularly post images on [https://www.instagram.com/aleks.magnusson/](https://www.instagram.com/aleks.magnusson/)
+- 📝 I regularly post photos / images on [https://www.instagram.com/aleks.magnusson/](https://www.instagram.com/aleks.magnusson/)
 
 - 💬 Ask me about **anything from photography/editing to who I am as a person.**
 
@@ -33,9 +33,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aleksmagnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleksmagnusson" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/aleks magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleks magnusson" height="30" width="40" /></a>
-<a href="https://fb.com/aleks magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aleks magnusson" height="30" width="40" /></a>
+
 <a href="https://instagram.com/aleks.magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleks.magnusson" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/aleks magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aleks magnusson" height="30" width="40" /></a>
 <a href="https://discord.gg/Aleksa Natalia#8583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aleksa Natalia#8583" height="30" width="40" /></a>
