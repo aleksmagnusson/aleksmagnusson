@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksmagnusson" alt="aleksmagnusson" /></a> </p>
 
-- 🔭 NOW: I’m currently learning about Node.js and more extensions to it. Like Express and Insomnia.
+- 🔭 NOW: I’m currently on the last course where we learn about PWA, TypeScript and mobile webbapps.
 
-- 🌱 IN GENERAL: I’m currently learning Node. **Node.js, Express, Nodemon, Insomnia and etc...**
+- 🌱 IN GENERAL: I’m currently learning PWA and building my portfolio/website.
 - There is a lot to learn and I sometimes feel it is like a rollercoaster with all the new things we learn everyday.
 
 - 👯 I’m looking to collaborate with others and learn as much as possible. Something useful and exciting to my career.
