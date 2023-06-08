@@ -8,22 +8,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksmagnusson&label=Profile%20views&color=0e75b6&style=flat" alt="aleksmagnusson" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksmagnusson" alt="aleksmagnusson" /></a> </p>
+//*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksmagnusson" alt="aleksmagnusson" /></a> </p>*/
 
-- 🔭 NOW: I’m currently on the last course where we learn about PWA, TypeScript and mobile webbapps.
+- 🔭 NOW: I’m currently on my Internship where I have been working as a digital designer and webprogrammer. I am looking for new assignemnts and applications.
 
 - 🌱 IN GENERAL: I’m currently learning PWA and building my portfolio/website.
 - There is a lot to learn and I sometimes feel it is like a rollercoaster with all the new things we learn everyday.
 
 - 👯 I’m looking to collaborate with others and learn as much as possible. Something useful and exciting to my career.
 
-- 🤝 I’m looking for help with code and how to be a better Frontend Programmer.
+- 🤝 I’m in a endless learning curve and take all the help I can with code and how to learn to be a better Frontend Programmer.
 
 - 👨‍💻 All of my public projects are available at [https://github.com/aleksmagnusson](https://github.com/aleksmagnusson)
 
 - 📫 How to reach me **aleks.magnusson@outlook.com**
 
-- 📄 More about my work in photography and coding! [https://aleksmagnusson.com/](https://aleksmagnusson.com/)
+- 📄 More about my work in photography/film and upcoming code! [https://aleksmagnusson.com/](https://aleksmagnusson.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
