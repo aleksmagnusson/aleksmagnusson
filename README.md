@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksmagnusson&label=Profile%20views&color=0e75b6&style=flat" alt="aleksmagnusson" /> </p>
 
-//*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksmagnusson" alt="aleksmagnusson" /></a> </p>*/
-
 - 🔭 NOW: I’m currently on my Internship where I have been working as a digital designer and webprogrammer. I am looking for new assignemnts and applications.
 
 - 🌱 IN GENERAL: I’m currently learning PWA and building my portfolio/website.
