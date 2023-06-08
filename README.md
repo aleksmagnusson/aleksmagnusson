@@ -8,10 +8,10 @@
 
 - 🔭 NOW: I’m currently on my Internship where I have been working as a digital designer and webprogrammer. I am looking for new assignemnts and applications.
 
-- 🌱 IN GENERAL: I’m currently learning PWA and building my portfolio/website.
-- There is a lot to learn and I sometimes feel it is like a rollercoaster with all the new things we learn everyday.
+- 🌱 IN GENERAL: I’m currently on my INTERNSHIP and work on a exciting project.
+- There is a lot to learn and I sometimes feel it is like a rollercoaster with all the new things we learn everyday. But it is a never ending learning curve. C'est la vie.
 
-- 👯 I’m looking to collaborate with others and learn as much as possible. Something useful and exciting to my career.
+- 👯 I’m looking to collaborate with others and learn as much as possible. Something useful and exciting to my career and past experience.
 
 - 🤝 I’m in a endless learning curve and take all the help I can with code and how to learn to be a better Frontend Programmer.
 
@@ -25,9 +25,8 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/aleks magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleks magnusson" height="30" width="40" /></a>
-<a href="https://instagram.com/aleks.magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleks.magnusson" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aleks magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aleks magnusson" height="30" width="40" /></a>
 <a href="https://discord.gg/Aleksa Natalia#8583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aleksa Natalia#8583" height="30" width="40" /></a>
+<a href="https://instagram.com/aleks.magnusson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleks.magnusson" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
