@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Aleks Magnusson</h1>
 
 <p aligin="center">
-<img src="https://c.tenor.com/mZhJSl-Ed14AAAAd/hi-jinx.gif" alt="animated" />
+<img src="https://c.tenor.com/mZhJSl-Ed14AAAAd/hi-jinx.gif" alt="animated" aligin="center" />
 </p>
   
 ### <h3 align="center">A Frontend Developer & content creator with a background in film and photography, I'm learning how to code to develop my skills in further use. My goal is to combine my experience with photography, film, digital design and UX/UI with coding to build websites and develop further use for the digital use we do today. My latest role was as a Digital Designer & Front-end dev where I worked with CME-system and code web design for apps.</h3>
